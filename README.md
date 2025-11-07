@@ -1,6 +1,7 @@
 ## 🩺 Medical Condition Classifier
 
 **Overview:**  
+
 A **Probabilistic Naïve Bayes–based model** to classify patient medical conditions from drug reviews.
 
 # Key Features
